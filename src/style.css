@@ -1,0 +1,18 @@
+table {
+    width: 100%;
+}
+
+th {
+    background-color: rgb(5, 33, 158);
+    color: white;
+    height: 20px;
+}
+
+.txtcentre {
+    text-align: center;
+}
+
+.topbar {
+    padding: 15px;
+    background-color: grey;
+}
